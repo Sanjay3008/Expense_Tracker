@@ -1,3 +1,8 @@
+# Expense Tracker
+This Expense Tracker App was developed using React.js to add the income and expense and maintaian a standard practise of monitoring the monthly expenses and savings. Voice configuration feature was also added which was provide by Speechly, the AI/ML based speech recognition engine.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
